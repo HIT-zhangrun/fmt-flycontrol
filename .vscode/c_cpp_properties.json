@@ -8,20 +8,13 @@
             "defines": [
                 "_DEBUG",
                 "UNICODE",
-                "_UNICODE",
-                "USE_STDPERIPH_DRIVER",
-                "STM32H753XX",
-                "__VFP_FP__",
-                "ARM_MATH_MATRIX_CHECK",
-                "ARM_MATH_CM7",
-                "__FPU_PRESENT=1",
-                "__FPU_USED=1"
+                "_UNICODE"
             ],
-            "windowsSdkVersion": "10.0.14393.0",
-            "compilerPath": "E:/App/VS2015/VC/bin/cl.exe",
-            "cStandard": "c99",
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "msvc-x64"
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "C:/mingw64/bin/g++"
         }
     ],
     "version": 4
